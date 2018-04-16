@@ -1,0 +1,20 @@
+OUTPUT: Invalid command motherfucker
+
+OUTPUT: Invalid command motherfucker
+
+OUTPUT: SMH, log is already in the web UI dumbass..
+
+OUTPUT: byeeeeeeee
+
+COMMAND: exit
+OUTPUT: byeeeeeeee
+
+COMMAND: test
+OUTPUT: Invalid command motherfucker
+
+COMMAND: lol exit fucker
+OUTPUT: byeeeeeeee
+
+COMMAND: exit
+OUTPUT: byeeeeeeee
+
