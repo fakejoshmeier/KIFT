@@ -4,6 +4,7 @@ A rudimentary chatbot with speech recognition powered by using Carnegie Mellon U
 The server and client that this project uses were written in C.
 
 This project was made by:
+
 Rafael Zarate (https://github.com/RafaelZarate)
 
 Isamar Hodge (https://github.com/isahodge)
